@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning CS at ASU
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me 619-457-9923 send a text
+- 📫 How to reach me JLNorthcote@gmail.com
 
 <!---
 I am a highly motivated and goal-oriented individual currently studying Computer Science at ASU. 
