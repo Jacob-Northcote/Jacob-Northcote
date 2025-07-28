@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Jacob-Northcote
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning CS at ASU
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me JLNorthcote@gmail.com, LinkedIn: Jacob-Northcote, Handshake: Jacob Northcote
+-  Hi, I’m @Jacob-Northcote
+-  I’m currently learning CS and DS at ASU
+- 📫 How to reach me JLNorthcote@gmail.com, LinkedIn: Jacob-Northcote
 
 <!---
 I am a highly motivated and goal-oriented individual currently studying Computer Science at ASU. 
