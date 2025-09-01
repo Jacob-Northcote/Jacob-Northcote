@@ -1,5 +1,6 @@
 -  Hi, I’m @Jacob-Northcote
 -  I’m currently learning CS and DS at ASU
+-  My website - https://jacobnorthcote.base44.app/
 - 📫 How to reach me JLNorthcote@gmail.com, LinkedIn: Jacob-Northcote
 
 <!---
